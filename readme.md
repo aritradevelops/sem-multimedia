@@ -1,17 +1,6 @@
 
 # ⭐ **UNIT 1 — INTRODUCTION TO MULTIMEDIA**
 
-We will cover:
-
-1. **What is Multimedia?**
-2. **Multimedia Today**
-3. **Impact of Multimedia**
-4. **Multimedia Systems**
-5. **Components of Multimedia**
-6. **Applications of Multimedia**
-
----
-
 # 1️⃣ **What is Multimedia?** (Core definition + intuition)
 
 ### **Simple Definition**
@@ -238,29 +227,6 @@ If you want, I can generate any diagram you need.
 * **Components** → Text, Audio, Image, Video, Animation, Hardware, Software
 * **Applications** → Education, medicine, web, games, business, libraries
 
-
-# ⭐ **UNIT 2 — TEXT AND AUDIO, IMAGE AND VIDEO**
-
-We’ll go in the exact order of your syllabus.
-
----
-
-# 🔵 **PART A — TEXT**
-
-Topics we will cover now:
-
-1. Types of Text
-2. Ways to Present Text
-3. Aspects of Text Design
-4. Character
-5. Character Set
-6. Codes
-7. Unicode
-8. Encryption
-
-Let’s begin.
-
----
 
 # 1️⃣ **Types of Text**
 
@@ -563,31 +529,7 @@ Used in:
 * Securing streaming services
 * Protecting copyrighted digital content
 
----
-
-# 🔵 **TEXT SECTION DONE**
-
-Next we move to:
-
----
-
 # 🔊 **PART B — AUDIO**
-
-Topics:
-
-* Basic Sound Concepts
-* Types of Sound
-* Digitizing Sound
-* Sampling Rate
-* Sampling Size
-* Quantization
-* Computer Representation
-* Audio Formats
-* Audio Tools
-* MIDI
-Absolutely — **bit depth** is one of the most important concepts in digital audio, and understanding it thoroughly will help you answer exam questions confidently *and* understand real-world audio quality.
-
-Let’s go deeper, but still intuitively.
 
 ---
 
@@ -884,18 +826,6 @@ You can keep this as a quick reference sheet.
 
 ---
 
-## If you want, I can also give:
-
-✔ A printable PDF cheatsheet
-✔ A memory trick for each abbreviation
-✔ A grouped summary for exam revision
-
-Just tell me!
-
-If you’re ready, say **"continue with image"**, and we’ll start the Image section.
-Sure — let’s continue with the **Image** component of multimedia in a detailed, intuitive way.
-
----
 
 # 🖼️ **IMAGE in Multimedia (Deep & Intuitive Explanation)**
 
